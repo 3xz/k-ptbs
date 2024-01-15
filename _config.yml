@@ -3,6 +3,8 @@ short_title: KPTBS Selbsthilfe
 iconURL: assets/kptbs-icon.png
 logo: assets/kptbs-icon.png
 remote_theme: 3xz/k-ptbs
+url: https://k-ptbs.com
+baseurl: /
 
 # for a clean URL
 permalink: :slug
