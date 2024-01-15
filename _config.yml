@@ -1,4 +1,4 @@
-title: KPTBS Selbsthilfegruppe
+title: Komplexe Posttraumatische Belastungsstörung (KPTBS) Selbsthilfegruppe: Online & Berlin
 iconURL: assets/kptbs-icon.png
 remote_theme: 3xz/k-ptbs
 
@@ -9,3 +9,7 @@ plugins:
  - jekyll-seo-tag
  - jekyll-remote-theme
  - jekyll-feed
+
+social:
+  instagram: kptbs.berlin
+  facebook: kptbs.selbsthilfe
