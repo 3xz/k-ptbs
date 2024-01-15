@@ -5,7 +5,7 @@ layout: page
 
 ## Angaben gemäß § 5 TMG
 
-Komplexe Posttraumatische Belastungsstörung e.V.
+Komplexe Posttraumatische Belastungsstörung e. V.
 
 Perlebergerstr. 44
 
