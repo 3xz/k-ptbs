@@ -1,12 +1,11 @@
 title: Leaf Blog
 iconURL: assets/default-icon.png
+remote_theme: supun-io/jekyll-theme-leaf
 
 # for a clean URL
 permalink: :slug
 
 plugins:
- - jekyll-feed
  - jekyll-seo-tag
  - jekyll-remote-theme
 
-remote_theme: supun-io/jekyll-theme-leaf
