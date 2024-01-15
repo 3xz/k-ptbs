@@ -6,8 +6,8 @@ remote_theme: 3xz/k-ptbs
 permalink: :slug
 
 social:
-  instagram: kptbs.berlin
-  facebook: kptbs.selbsthilfe
+  instagram: "kptbs.berlin"
+  facebook: "kptbs.selbsthilfe"
 
 plugins:
  - jekyll-seo-tag
