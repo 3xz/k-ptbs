@@ -8,4 +8,4 @@ permalink: :slug
 plugins:
  - jekyll-seo-tag
  - jekyll-remote-theme
-
+ - jekyll-feed
