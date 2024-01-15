@@ -21,7 +21,7 @@ Facebook: <a href="https://www.facebook.com/kptbs.selbsthilfe">https://www.faceb
 
 ## EU-Streitschlichtung
 Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit:
-https://ec.europa.eu/consumers/odr.
+[https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr).
 Unsere E-Mail-Adresse finden Sie oben im Impressum.
 
 ## Verbraucherstreitbeilegung/Universalschlichtungsstelle
