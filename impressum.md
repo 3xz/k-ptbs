@@ -5,7 +5,7 @@ layout: page
 
 ## Angaben gemäß § 5 TMG
 
-Marcel Schmidt
+Komplexe Posttraumatische Belastungsstörung e.V.
 
 Perlebergerstr. 44
 
