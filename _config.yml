@@ -5,11 +5,11 @@ remote_theme: 3xz/k-ptbs
 # for a clean URL
 permalink: :slug
 
+social:
+  instagram: kptbs.berlin
+  facebook: kptbs.selbsthilfe
+
 plugins:
  - jekyll-seo-tag
  - jekyll-remote-theme
  - jekyll-feed
-
-social:
-  instagram: kptbs.berlin
-  facebook: kptbs.selbsthilfe
