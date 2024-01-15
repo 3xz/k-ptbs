@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Selbsthilfegruppe Komplexe Posttraumatische Belastungsstörung (KPTBS)
 ---
 
