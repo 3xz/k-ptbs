@@ -6,13 +6,17 @@ layout: page
 ## Angaben gemäß § 5 TMG
 
 Marcel Schmidt
+
 Perlebergerstr. 44
-10559 Berlin-Moabit
+
+10559 Berlin
 
 ## Kontakt
 
 Email: <a href="mailto:mail@k-ptbs.com">mail@k-ptbs.com</a>
+
 Instagram: <a href="https://www.instagram.com/kptbs.berlin">https://www.instagram.com/kptbs.berlin</a>
+
 Facebook: <a href="https://www.facebook.com/kptbs.selbsthilfe">https://www.facebook.com/kptbs.selbsthilfe</a>
 
 ## EU-Streitschlichtung
