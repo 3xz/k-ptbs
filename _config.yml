@@ -1,6 +1,6 @@
 title: Leaf Blog
 iconURL: assets/default-icon.png
-remote_theme: supun-io/jekyll-theme-leaf
+remote_theme: 3xz/k-ptbs
 
 # for a clean URL
 permalink: :slug
