@@ -16,7 +16,7 @@ Gruppen und Organisationen z.B. von chronisch kranken Menschen sind daher inzwis
 
 ### Selbsthilfegruppen
 
-sind Gesprächskreise einer überschaubaren Anzahl von Personen (ca. 7-15 Mitglieder)
+sind Gesprächskreise einer überschaubaren Anzahl von Personen
 
 - arbeiten selbstbestimmt, d.h. die Inhalte und Arbeitsweisen der Gruppe werden von den Mitgliedern bestimmt
 - verlangen von ihren Mitgliedern eine aktive und kontinuierliche Mitarbeit
