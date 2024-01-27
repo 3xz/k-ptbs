@@ -5,6 +5,10 @@ title: Selbsthilfegruppe Komplexe Posttraumatische Belastungsstörung
 
 Schön, dass du da bist! Wir sind eine Gruppe (mittlerweile ein Verbund von Gruppen) von Menschen, die sich gegenseitig unterstützen auf dem oft schwierigen und komplexen Weg der Heilung einer KPTBS. 
 
-Wir haben verschiedene Gruppen und Projekte: Online Gruppen, eine Berlin-Gruppe, Lesegruppen, eine Gruppe in Gründung zum Thema Umweltschutz.
+Wir haben verschiedene Gruppen: Online Gruppen, eine Berlin-Gruppe, Lesegruppen und eine Gruppe in Gründung zum Thema Umweltschutz.
+
+Uns ist ein achtsamer, wertschätzender und rücksichtsvoller Umgang miteinander wichtig. Wir bieten einen sicheren Raum für alles Schwere, aber immer mit dem Ziel uns auf dem Heilungsweg zu unterstützen. Wir treffen uns anonym und alles Gesagte bleibt vertraulich.
+
+Für die Teilnahme ist Therapieerfahrung sehr hilfreich, die Gruppe ist kein Ersatz für eine Therapie. Die Teilnahme ist nur möglich wenn du die Gruppenregeln einhälst (siehe unten) und ausreichend stabilisiert bist.
 
 Bei Interesse wende dich an <a href="mailto:mail@k-ptbs.com">mail@k-ptbs.com</a> und wir freuen uns darauf dich kennen zu lernen.
