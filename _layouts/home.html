@@ -11,10 +11,10 @@ layout: default
 
   {%- if posts.size > 0 -%}
   {%- for post in posts -%}
-    <article class="post">
+    <article class="post"><a name="{{ post.title | slugify | cgi_escape }}"></a>
 
       <header class="post-header">
-        <a name="{{ post.title | slugify | cgi_escape }}"></a><h1 class="post-title">{{ post.title | escape }}</h1>
+        <h1 class="post-title">{{ post.title | escape }}</h1>
       </header>
     
       <div class="post-content">
