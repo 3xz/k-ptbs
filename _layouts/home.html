@@ -14,7 +14,7 @@ layout: default
     <article class="post">
 
       <header class="post-header">
-        <a name="{{ post.title | cgi_escape }}"><h1 class="post-title">{{ post.title | escape }}</h1></a>
+        <a name="{{ post.title | slugify | cgi_escape }}"></a><h1 class="post-title">{{ post.title | escape }}</h1>
       </header>
     
       <div class="post-content">
