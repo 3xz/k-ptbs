@@ -14,9 +14,9 @@ Für die Teilnahme ist Therapieerfahrung sehr hilfreich, die Gruppe ist kein Ers
 Bei Interesse wende dich an <a href="mailto:mail@k-ptbs.com">mail@k-ptbs.com</a> und wir freuen uns darauf dich kennen zu lernen.
 
 ## Übersicht
-[Terminkalender](#terminkalender)
-[Gruppen-Regeln](#gruppen-regeln)
-[Ablauf der Treffen](#ablauf-der-treffen)
-[KPTBS Diagnose](#kptbs-diagnose)
-[Allgemeines zu Selbsthilfe](#allgemeines-zu-selbsthilfe)
-[KPTBS Selbsthilfe](#kptbs-selbsthilfe)
+* [Terminkalender](#terminkalender)
+* [Gruppen-Regeln](#gruppen-regeln)
+* [Ablauf der Treffen](#ablauf-der-treffen)
+* [KPTBS Diagnose](#kptbs-diagnose)
+* [Allgemeines zu Selbsthilfe](#allgemeines-zu-selbsthilfe)
+* [KPTBS Selbsthilfe](#kptbs-selbsthilfe)
