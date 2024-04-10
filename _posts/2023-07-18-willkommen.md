@@ -11,7 +11,7 @@ Uns ist ein achtsamer, wertschätzender und rücksichtsvoller Umgang miteinander
 
 Für die Teilnahme ist Therapieerfahrung sehr hilfreich, die Gruppe ist kein Ersatz für eine Therapie. Die Teilnahme ist nur möglich wenn du die Gruppenregeln einhältst (siehe unten) und ausreichend stabilisiert bist.
 
-Bei Interesse wende dich an <a href="mailto:mail@k-ptbs.com">mail@k-ptbs.com</a> und wir freuen uns darauf dich kennen zu lernen.
+Bei Interesse wende dich an <a href="mailto:mail@kptbs.de">mail@kptbs.de</a> und wir freuen uns darauf dich kennen zu lernen.
 
 ## Übersicht
 * [Terminkalender](#terminkalender)
