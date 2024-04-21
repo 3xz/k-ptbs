@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Selbsthilfegruppe Komplexe Posttraumatische Belastungsstörung
+title: Selbsthilfe Gruppen Komplexe Posttraumatische Belastungsstörung
 ---
 
 Schön, dass du da bist! Wir sind eine Gruppe (mittlerweile ein Verbund von Gruppen) von Menschen, die sich gegenseitig unterstützen auf dem oft schwierigen und komplexen Weg der Heilung einer KPTBS. 
