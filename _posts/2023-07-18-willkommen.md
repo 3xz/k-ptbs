@@ -7,7 +7,7 @@ Schön, dass du da bist! Wir sind eine Gruppe (mittlerweile ein Verbund von Grup
 
 Wir haben verschiedene Gruppen: Online Gruppen, eine Berlin-Gruppe, zwei Lesegruppen, eine Nervensystem-Regulations-Übungs-Gruppe, eine Lese+Übungsgruppe und eine Gruppe in Gründung; KPTBS SHG für Umweltschutz-Interessierte/Aktivisti. Die Gruppengröße ist jeweils 4-8 Teilnehmende. Die Berlin-Gruppe trifft sich in Moabit, alle anderen Gruppen finden Online statt.
 
-Uns ist ein achtsamer, wertschätzender und rücksichtsvoller Umgang miteinander wichtig. Wir bieten einen sicheren Raum für alles Schwere, aber immer mit dem Ziel uns auf dem Heilungsweg zu unterstützen. Wir treffen uns anonym und alles Gesagte bleibt vertraulich. Die technische Basis für unseren sicheren Raum bildet freie, quelloffene und ende-zu-ende-verschlüsselte Software. Psychische Sicherheit schenken wir und gemeinsam, durch aktives Praktizieren unserer Gruppenregeln.  
+Uns ist ein achtsamer, wertschätzender und rücksichtsvoller Umgang miteinander wichtig. Wir bieten einen sicheren Raum für alles Schwere, aber immer mit dem Ziel uns auf dem Heilungsweg zu unterstützen. Wir treffen uns anonym und alles Gesagte bleibt vertraulich. Die technische Basis für unseren sicheren Raum bildet freie, quelloffene und ende-zu-ende-verschlüsselte Software. Psychische Sicherheit schenken wir uns gemeinsam, durch aktives Praktizieren unserer Gruppenregeln.  
 
 Für die Teilnahme ist Therapieerfahrung sehr hilfreich, die Gruppe ist kein Ersatz für eine Therapie. Die Teilnahme ist nur möglich wenn du die Gruppenregeln einhältst (siehe unten) und ausreichend stabilisiert bist.
 
