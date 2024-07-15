@@ -16,7 +16,7 @@ Bei Interesse wende dich an <a href="mailto:mail@kptbs.de">mail@kptbs.de</a> und
 ## Übersicht
 * [Terminkalender](#terminkalender)
 * [Gruppen-Regeln](#gruppen-regeln)
-* [Gruppenübersicht](#gruppenliste)
+* [Gruppenübersicht](#gruppenübersicht)
 * [Ablauf der Treffen](#ablauf-der-treffen)
 * [KPTBS Diagnose](#kptbs-diagnose)
 * [Allgemeines zu Selbsthilfe](#allgemeines-zu-selbsthilfe)
