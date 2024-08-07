@@ -7,7 +7,7 @@ title: Gruppenübersicht
 | --- | --- | --- | --- |
 | Online Gruppe 1 | mittwochs, alle zwei Wochen, 19:30-21:00 | Online |  |
 | Lesegruppe Levine | sonntags, wöchentlich, 10:30-12:00 | Online | [Peter Levine: Sprache ohne Worte (SE)](https://www.amazon.de/dp/3466309182/) |
-| Lesegruppe Heller | montags, wöchentlich, 16:00-17:30 | Online |  [Laurence Heller, Aline LaPierre: Entwicklungstrauma heilen (NARM)](https://www.amazon.de/dp/3466309220/)   |
+| Lese-Übungs-Gruppe Heller | montags, wöchentlich, 16:00-17:30 | Online |  [Laurence Heller, Aline LaPierre: Entwicklungstrauma heilen (NARM)](https://www.amazon.de/dp/3466309220/)   |
 | Übungsgruppe | mittwochs, wöchentlich, 18:00-19:00 | Online |     |
-| Lese-Übungs-Gruppe | in Gründung | Online | [Pete Walker: Posttraumatische Belastungsstörung](https://www.amazon.de/dp/3962570756/) |
-| Berlin Gruppe | 2\. + 4. Freitag im Monat, 19:00-21:00 | Berlin, Moabit |     |
+| Lese-Übungs-Gruppe | samstags, wöchentlich, 12:00-13:30 | Online | [Pete Walker: Posttraumatische Belastungsstörung](https://www.amazon.de/dp/3962570756/) |
+| Berlin Gruppe | 2. + 4. Freitag im Monat, 19:00-21:00 | Berlin, Moabit |     |
