@@ -7,7 +7,7 @@ layout: page
 
 Komplexe Posttraumatische Belastungsstörung e. V.
 
-Perlebergerstr. 44
+Perlebergerstr. 55
 
 10559 Berlin
 
