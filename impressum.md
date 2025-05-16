@@ -5,11 +5,9 @@ layout: page
 
 ## Angaben gemäß § 5 TMG
 
-Komplexe Posttraumatische Belastungsstörung e. V.
+Komplexe Posttraumatische Belastungsstörung 
 
-Perlebergerstr. 44
-
-10559 Berlin
+in Überarbeitung
 
 ## Kontakt
 
