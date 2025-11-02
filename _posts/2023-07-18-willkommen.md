@@ -5,8 +5,8 @@ title: Selbsthilfe Gruppen Komplexe Posttraumatische Belastungsstörung
 
 Schön, dass du da bist! Wir sind eine Gruppe (mittlerweile ein Verbund von Gruppen) von Menschen, die sich gegenseitig unterstützen auf dem oft schwierigen und komplexen Weg der Heilung einer KPTBS. 
 
-Wir haben verschiedene Gruppen: Online Gruppen, eine Berlin-Gruppe, eine Lesegruppen, eine Nervensystem-Regulations-Übungs-Gruppe, zwei Lese- & Übungsgruppen und eine Gruppe in Gründung; KPTBS SHG für Umweltschutz-Interessierte/Aktivisti. 
-Die Gruppengröße ist jeweils 4-9 Teilnehmende. Die Berlin-Gruppe trifft sich in Moabit, alle anderen Gruppen finden Online statt. Alle Zeiten sind in CET Zeitzone, teilnehmen kannst du aus jedem Land.
+Wir haben verschiedene Gruppen: Online Gruppen, zwei Berlin-Gruppe, zwei Lesegruppen und eine Gruppe in Gründung; KPTBS SHG für Umweltschutz-Interessierte/Aktivisti. 
+Die Gruppengröße ist jeweils 4-12 Teilnehmende. Die eine Berlin-Gruppe trifft sich in Moabit, die andere in Kreuzberg, alle anderen Gruppen finden Online statt. Alle Zeiten sind in CET Zeitzone, teilnehmen kannst du aus jedem Land.
 
 Uns ist ein achtsamer, wertschätzender und rücksichtsvoller Umgang miteinander wichtig. Wir bieten einen sicheren Raum für alles Schwere, aber immer mit dem Ziel uns auf dem Heilungsweg zu unterstützen. Wir treffen uns anonym und alles Gesagte bleibt vertraulich. Die technische Basis für unseren sicheren Raum bildet freie, quelloffene und ende-zu-ende-verschlüsselte Software. Psychische Sicherheit schenken wir uns gemeinsam, durch aktives Praktizieren unserer Gruppenregeln.  
 
