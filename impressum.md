@@ -5,7 +5,7 @@ layout: page
 
 ## Angaben gemäß § 5 TMG
 
-Komplexe Posttraumatische Belastungsstörung
+Komplexe Posttraumatische Belastungsstörung 
 
 in Überarbeitung
 
